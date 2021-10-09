@@ -14,6 +14,6 @@ Repository for causal python learning meetups with economics masters students at
 
 * [GitHub repository for UUPyEcon](https://github.com/websitenotavailable/UUPyEcon)
 
-* [My other GitHub learning repo](https://github.com/websitenotavailable/learning) with a bunch of random stuff.
+* [My other self-learning GitHub learning repo](https://github.com/websitenotavailable/learning) with a bunch of random stuff.
 
 * [Our Discord server](https://discord.gg/HE2rXb4xYq)
