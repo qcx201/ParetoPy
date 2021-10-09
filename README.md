@@ -1,9 +1,12 @@
 # UUPyEcon
 Repository for causal python learning meetups at Uppsala University.
 
-**Starter Kit**
+### Starter Kit
 
 * [Download and install Anaconda](https://www.anaconda.com/products/individual#Downloads)
+
+
+### Resources
 
 * [Intro to Python notebooks](https://github.com/ipeirotis/introduction-to-python/tree/master/notes), the main learning resource we will use
 
