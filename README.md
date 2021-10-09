@@ -1,5 +1,5 @@
 # UUPyEcon
-Repository for causal python learning meetups at Uppsala University.
+Repository for causal python learning meetups for economics masters students at Uppsala University.
 
 ### Starter Kit
 
