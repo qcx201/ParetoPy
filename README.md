@@ -1,5 +1,5 @@
 # ParetoPy
-Repository for causal python learning meetups with economics masters students at Uppsala University and Swedish University of Agricultural Sciences (SLU).
+Repository for causal python learning meetups with economics masters students at Uppsala University and Swedish University of Agricultural Sciences (SLU), hosted by the Pareto Uppsala Economic Association.
 
 ### Starter Kit
 
