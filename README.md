@@ -1,5 +1,5 @@
-# UUPyEcon
-Repository for causal python learning meetups with economics masters students at Uppsala University.
+# ParetoPy
+Repository for causal python learning meetups with economics masters students at Uppsala University and Swedish University of Agricultural Sciences (SLU).
 
 ### Starter Kit
 
