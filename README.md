@@ -10,7 +10,7 @@ Repository for causal python learning meetups with economics masters students at
 ---
 ### Resources
 
-* [Intro to Python notebooks](https://github.com/ipeirotis/introduction-to-python/tree/master/notes) - the main learning resource we will use
+* [Intro to Python notebooks](https://github.com/ipeirotis/introduction-to-python/tree/master/notes) by Panos Ipeirotis - the main learning resource we will use
 
 * [Videos of the material taught by the legend himself](https://youtube.com/playlist?list=PLqAPn_b_yx0TBDqe5-AMSed6sYzMj9qkN)
 
@@ -24,8 +24,8 @@ Repository for causal python learning meetups with economics masters students at
 
 * [Dealing with Data](https://github.com/ipeirotis/dealing_with_data) - Material from Panos' continuation course to "Intro to Python:"
 
-* [Data Bootcamp](https://nyudatabootcamp.gitbook.io/thebook/) - Another python course from the NYU Stern Economics Department:
+* [Data Bootcamp](https://nyudatabootcamp.gitbook.io/thebook/) - Another python course from the NYU Stern Economics Department
 
-* [QuanEcon](https://quantecon.org/lectures/) - Programming-based economics lectures started by (Nobel Laureate) Tom Sargent and John Stachurski:
+* [QuanEcon](https://quantecon.org/lectures/) - Programming-based economics lectures started by (Nobel Laureate) Tom Sargent and John Stachurski
 
 * [My other self-learning repo](https://github.com/websitenotavailable/learning) with a bunch of random stuff
