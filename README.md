@@ -14,7 +14,7 @@ Repository for causal python learning meetups with economics masters students at
 
 * [Videos of the material taught by the legend himself](https://youtube.com/playlist?list=PLqAPn_b_yx0TBDqe5-AMSed6sYzMj9qkN)
 
-* [GitHub repository for ParetoPy](https://github.com/websitenotavailable/ParetoPy)
+* [GitHub repository for ParetoPy](https://github.com/websitenotavailable/ParetoPy) (this page)
 
 * [Our Discord server](https://discord.gg/HE2rXb4xYq)
 
