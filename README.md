@@ -27,4 +27,4 @@ Repository for causal python learning meetups with economics masters students at
 
 * [QuanEcon](https://quantecon.org/lectures/) - Programming-based economics lectures started by (Nobel Laureate) Tom Sargent and John Stachurski:
 
-* My other [self-learning repo](https://github.com/websitenotavailable/learning) with a bunch of random stuff
+* [My other self-learning repo](https://github.com/websitenotavailable/learning) with a bunch of random stuff
