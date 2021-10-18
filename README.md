@@ -26,6 +26,6 @@ Repository for causal python learning meetups with economics masters students at
 
 * [Data Bootcamp](https://nyudatabootcamp.gitbook.io/thebook/) - Another python course from the NYU Stern Economics Department
 
-* [QuanEcon](https://quantecon.org/lectures/) - Programming-based economics lectures started by (Nobel Laureate) Tom Sargent and John Stachurski
+* [QuanEcon](https://quantecon.org/lectures/) - Programming-based economics lectures started by Tom Sargent and John Stachurski
 
 * [My other self-learning repo](https://github.com/websitenotavailable/learning) with a bunch of random stuff
