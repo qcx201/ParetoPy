@@ -5,7 +5,7 @@ Repository for causal python learning meetups with economics masters students at
 
 * [Download and install Anaconda](https://www.anaconda.com/products/individual#Downloads)
 * [How to open Jupyter Notebook](https://discord.com/channels/892688323540307968/897513598111318027/897521432584679435)
-* Command line cheatsheets: [Windows](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf), [MacOS/Unix](https://appletree.or.kr/quick_reference_cards/Unix-Linux/CLI-Cheat-Sheet.pdf)
+* Command line cheatsheets: [Windows](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf) | [MacOS/Unix](https://appletree.or.kr/quick_reference_cards/Unix-Linux/CLI-Cheat-Sheet.pdf)
 
 ---
 ### Resources
