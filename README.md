@@ -20,7 +20,7 @@ Repository for causal python learning meetups with economics masters students at
 
 
 ---
-### Other Stuff to Check Out
+### Check Out:
 
 * [Dealing with Data](https://github.com/ipeirotis/dealing_with_data) - Material from Panos' continuation course to "Intro to Python:"
 
