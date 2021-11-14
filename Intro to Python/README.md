@@ -1,4 +1,4 @@
-Notebooks by Panos Iperotis:
+Notebooks by **Panos Iperotis:**
 
-**Introduction to Python for Data Science**
+**Introduction to Python for Data Science** <br>
 https://github.com/ipeirotis/introduction-to-python
