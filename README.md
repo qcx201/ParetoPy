@@ -29,3 +29,7 @@ Repository for causal python learning meetups with economics masters students at
 * [QuantEcon](https://quantecon.org/lectures/) - Programming-based economics lectures started by Tom Sargent and John Stachurski
 
 * [My other self-learning repo](https://github.com/websitenotavailable/learning) with a bunch of random stuff
+
+* [Learning notation](https://github.com/qcx201/Learning-Notation)
+
+* [Pareto Uppsala Economic Association](https://www.facebook.com/ParetoUppsala)
