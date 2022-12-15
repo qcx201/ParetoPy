@@ -30,6 +30,6 @@ Repository for causal python learning meetups with economics masters students at
 
 * [My other self-learning repo](https://github.com/websitenotavailable/learning) with a bunch of random stuff
 
-* [Learning notation](https://github.com/qcx201/Learning-Notation)
+* [Learning notation](https://github.com/qcx201/Learning-Notation) - Pareto mathematics seminars
 
-* [Pareto Uppsala Economic Association](https://www.facebook.com/ParetoUppsala)
+* [Pareto Uppsala Economic Association](https://www.facebook.com/ParetoUppsala) - It's 3pm somewhere 🍻
