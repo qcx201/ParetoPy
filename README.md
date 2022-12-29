@@ -1,11 +1,13 @@
 # ParetoPy
 This repository contains materials from our python workshops for economics masters students and friends at Uppsala University and Swedish University of Agricultural Sciences (SLU), hosted by the Pareto Uppsala Economic Association.
 
-### Starter Kit
+---
+### Jupyter Starter Kit
 
 * [Download and install Anaconda](https://www.anaconda.com/products/individual#Downloads)
 * [How to open Jupyter Notebook](https://discord.com/channels/892688323540307968/897513598111318027/897521432584679435) (Discord link)
 * Command line cheatsheets: [Windows](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf) | [MacOS/Unix](https://appletree.or.kr/quick_reference_cards/Unix-Linux/CLI-Cheat-Sheet.pdf)
+* [Crash course notebook](https://colab.research.google.com/drive/1X71cjyj8h5H1br7INbaGwMRokFoS95QZ?usp=sharing) (Google Colab)
 
 ---
 ### Resources
