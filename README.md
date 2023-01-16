@@ -34,4 +34,4 @@ This repository contains materials from our python workshops for economics maste
 
 * [Learning notation](https://github.com/qcx201/Learning-Notation) - Pareto mathematics seminars
 
-* [Pareto Uppsala Economic Association](https://www.facebook.com/ParetoUppsala) - It's 3pm somewhere 🍻
+* [Pareto Uppsala Economic Association](https://www.facebook.com/ParetoUppsala) - It's 5pm somewhere 🍻
